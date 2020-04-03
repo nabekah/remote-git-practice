@@ -1,0 +1,27 @@
+body {
+    background-color: white;
+}
+
+.navbar-home-cus {
+    max-width: width auto;
+    ;
+    min-height: 155px;
+    padding: 20px 20px 20px 20px;
+    margin-bottom: 0px;
+    background-color: white;
+    border: 1px solid transparent;
+    border-top: 5px solid;
+    border-top-color: cadetblue;
+    border-right-color: transparent;
+    border-bottom: 1.5px solid;
+    border-bottom-color: cadetblue;
+    border-left-color: transparent;
+}
+
+.detail-con {
+    margin-top: 30px;
+}
+
+.plann {
+    color: darkblue;
+}
